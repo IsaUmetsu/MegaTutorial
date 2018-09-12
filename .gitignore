@@ -2,5 +2,7 @@
 __pycache__/
 boxes/
 *.py
+!microblog/**/*.py
 */**/*.pyc
 microblog/app.db
+microblog/migrations/**/*.py
