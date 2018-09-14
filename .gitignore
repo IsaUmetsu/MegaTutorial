@@ -6,3 +6,4 @@ boxes/
 */**/*.pyc
 microblog/app.db
 microblog/migrations/**/*.py
+microblog/venv/**/*.*
