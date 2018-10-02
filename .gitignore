@@ -8,3 +8,4 @@ microblog/app.db
 microblog/migrations/**/*.py
 microblog/venv/*
 microblog/logs/*.*
+microblog/venv/lib/*.*
