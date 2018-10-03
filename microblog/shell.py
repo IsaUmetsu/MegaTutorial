@@ -3,5 +3,8 @@ def chapter12_1():
     print(str(datetime.now()))
     print(str(datetime.utcnow()))
 
+def chapter14_1():
+    from app.translate import translate
+    print(translate('Hi, how are you today?'))
 # execute
-chapter12_1()
+chapter14_1()
