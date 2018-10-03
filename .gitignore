@@ -9,3 +9,4 @@ microblog/migrations/**/*.py
 microblog/venv/*
 microblog/logs/*.*
 microblog/venv/lib/*.*
+microblog/messages.*
