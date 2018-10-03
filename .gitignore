@@ -10,3 +10,4 @@ microblog/venv/*
 microblog/logs/*.*
 microblog/venv/lib/*.*
 microblog/messages.*
+microblog/app/translations/**/*.*
