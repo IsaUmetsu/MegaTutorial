@@ -11,3 +11,4 @@ microblog/logs/*.*
 microblog/venv/lib/*.*
 microblog/messages.*
 microblog/app/translations/**/*.*
+microblog.code-workspace
