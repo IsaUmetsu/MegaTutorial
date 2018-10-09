@@ -13,3 +13,4 @@ microblog/messages.*
 microblog/app/translations/**/*.*
 microblog.code-workspace
 microblog/dump.rdb
+microblog/.vscode/**/*.*
